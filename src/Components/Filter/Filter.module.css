@@ -1,0 +1,9 @@
+.filter {
+  padding: 0;
+}
+
+.filter_input {
+  border-radius: 5px;
+  border: 1px solid #bdbdbd;
+  height: 25px;
+}
